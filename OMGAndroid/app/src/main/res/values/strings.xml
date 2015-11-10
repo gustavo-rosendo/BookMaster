@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JogjaBukuku</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="textview">Search for Books!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Search</string>
+    <string name="hint">Title and/or author</string>
+    <string name="activity_details">Book Details</string>
+</resources>
